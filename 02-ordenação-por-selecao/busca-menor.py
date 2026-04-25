@@ -8,3 +8,4 @@ def buscaMenor(arr):
             menor = arr[i]
             menor_indice = i
     return menor_indice
+
